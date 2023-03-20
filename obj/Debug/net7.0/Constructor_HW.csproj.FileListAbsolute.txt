@@ -1,0 +1,15 @@
+D:\Constructor_HW\bin\Debug\net7.0\Constructor_HW.exe
+D:\Constructor_HW\bin\Debug\net7.0\Constructor_HW.deps.json
+D:\Constructor_HW\bin\Debug\net7.0\Constructor_HW.runtimeconfig.json
+D:\Constructor_HW\bin\Debug\net7.0\Constructor_HW.dll
+D:\Constructor_HW\bin\Debug\net7.0\Constructor_HW.pdb
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.csproj.AssemblyReference.cache
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.AssemblyInfoInputs.cache
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.AssemblyInfo.cs
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.dll
+D:\Constructor_HW\obj\Debug\net7.0\refint\Constructor_HW.dll
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.pdb
+D:\Constructor_HW\obj\Debug\net7.0\Constructor_HW.genruntimeconfig.cache
+D:\Constructor_HW\obj\Debug\net7.0\ref\Constructor_HW.dll

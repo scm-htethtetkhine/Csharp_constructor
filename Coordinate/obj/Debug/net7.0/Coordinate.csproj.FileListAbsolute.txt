@@ -1,0 +1,15 @@
+D:\Constructor_HW\Coordinate\bin\Debug\net7.0\Coordinate.exe
+D:\Constructor_HW\Coordinate\bin\Debug\net7.0\Coordinate.deps.json
+D:\Constructor_HW\Coordinate\bin\Debug\net7.0\Coordinate.runtimeconfig.json
+D:\Constructor_HW\Coordinate\bin\Debug\net7.0\Coordinate.dll
+D:\Constructor_HW\Coordinate\bin\Debug\net7.0\Coordinate.pdb
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.csproj.AssemblyReference.cache
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.AssemblyInfoInputs.cache
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.AssemblyInfo.cs
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.dll
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\refint\Coordinate.dll
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.pdb
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\Coordinate.genruntimeconfig.cache
+D:\Constructor_HW\Coordinate\obj\Debug\net7.0\ref\Coordinate.dll

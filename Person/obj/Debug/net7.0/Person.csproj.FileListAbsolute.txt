@@ -1,0 +1,15 @@
+D:\Constructor_HW\Person\bin\Debug\net7.0\Person.exe
+D:\Constructor_HW\Person\bin\Debug\net7.0\Person.deps.json
+D:\Constructor_HW\Person\bin\Debug\net7.0\Person.runtimeconfig.json
+D:\Constructor_HW\Person\bin\Debug\net7.0\Person.dll
+D:\Constructor_HW\Person\bin\Debug\net7.0\Person.pdb
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.csproj.AssemblyReference.cache
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.AssemblyInfoInputs.cache
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.AssemblyInfo.cs
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.dll
+D:\Constructor_HW\Person\obj\Debug\net7.0\refint\Person.dll
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.pdb
+D:\Constructor_HW\Person\obj\Debug\net7.0\Person.genruntimeconfig.cache
+D:\Constructor_HW\Person\obj\Debug\net7.0\ref\Person.dll

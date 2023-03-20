@@ -1,0 +1,15 @@
+D:\Constructor_HW\Rectangle\bin\Debug\net7.0\Rectangle.exe
+D:\Constructor_HW\Rectangle\bin\Debug\net7.0\Rectangle.deps.json
+D:\Constructor_HW\Rectangle\bin\Debug\net7.0\Rectangle.runtimeconfig.json
+D:\Constructor_HW\Rectangle\bin\Debug\net7.0\Rectangle.dll
+D:\Constructor_HW\Rectangle\bin\Debug\net7.0\Rectangle.pdb
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.csproj.AssemblyReference.cache
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.AssemblyInfoInputs.cache
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.AssemblyInfo.cs
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.dll
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\refint\Rectangle.dll
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.pdb
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\Rectangle.genruntimeconfig.cache
+D:\Constructor_HW\Rectangle\obj\Debug\net7.0\ref\Rectangle.dll

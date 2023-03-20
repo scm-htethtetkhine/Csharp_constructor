@@ -1,0 +1,15 @@
+D:\Constructor_HW\Circle\bin\Debug\net7.0\Circle.exe
+D:\Constructor_HW\Circle\bin\Debug\net7.0\Circle.deps.json
+D:\Constructor_HW\Circle\bin\Debug\net7.0\Circle.runtimeconfig.json
+D:\Constructor_HW\Circle\bin\Debug\net7.0\Circle.dll
+D:\Constructor_HW\Circle\bin\Debug\net7.0\Circle.pdb
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.csproj.AssemblyReference.cache
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.AssemblyInfoInputs.cache
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.AssemblyInfo.cs
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.dll
+D:\Constructor_HW\Circle\obj\Debug\net7.0\refint\Circle.dll
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.pdb
+D:\Constructor_HW\Circle\obj\Debug\net7.0\Circle.genruntimeconfig.cache
+D:\Constructor_HW\Circle\obj\Debug\net7.0\ref\Circle.dll

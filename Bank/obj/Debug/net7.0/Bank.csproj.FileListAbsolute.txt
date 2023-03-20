@@ -1,0 +1,15 @@
+D:\Constructor_HW\Bank\bin\Debug\net7.0\Bank.exe
+D:\Constructor_HW\Bank\bin\Debug\net7.0\Bank.deps.json
+D:\Constructor_HW\Bank\bin\Debug\net7.0\Bank.runtimeconfig.json
+D:\Constructor_HW\Bank\bin\Debug\net7.0\Bank.dll
+D:\Constructor_HW\Bank\bin\Debug\net7.0\Bank.pdb
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.csproj.AssemblyReference.cache
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.AssemblyInfoInputs.cache
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.AssemblyInfo.cs
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.csproj.CoreCompileInputs.cache
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.dll
+D:\Constructor_HW\Bank\obj\Debug\net7.0\refint\Bank.dll
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.pdb
+D:\Constructor_HW\Bank\obj\Debug\net7.0\Bank.genruntimeconfig.cache
+D:\Constructor_HW\Bank\obj\Debug\net7.0\ref\Bank.dll
